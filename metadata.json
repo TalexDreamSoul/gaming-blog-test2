@@ -1,0 +1,6 @@
+{
+  "name": "Game Dev Portfolio",
+  "description": "A minimalist, Apple-inspired dark theme portfolio for an Unreal Engine game development engineer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
